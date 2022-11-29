@@ -11,7 +11,7 @@
     flex-wrap: wrap;
     align-items: center;
     gap: 15px;
-    background-image: linear-gradient(180deg, rgb(117, 115, 115), rgb(220, 223, 209));
+    background-image: linear-gradient(180deg, rgb(120, 72, 168), rgb(220, 223, 209));
     color: white;
     height: 50px;
     width: calc(min(100%, 1000px));
