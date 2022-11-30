@@ -29,7 +29,8 @@ gap:10px;
     font-weight: bold;
     text-align: center;
     grid-column: 1/8;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
+    padding-top: 10px;
     color: blueviolet;
 }
 .daysOfWeek{
@@ -45,10 +46,16 @@ gap:10px;
 .daysContainer{
     display: grid;
     grid-template-columns: auto auto auto auto auto auto auto;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
 }
 .daysContainer div{
     text-align: center;
     color: gray;
+}
+
+@media screen and (min-width:800px) {
+    .menuText {
+        display: block;
+    }
 }
 
