@@ -52,6 +52,18 @@ gap:10px;
     text-align: center;
     color: gray;
 }
+.holiday{
+    color: orange !important;
+    font-weight: bold;
+}
+.rdv{
+    color: greenyellow !important;
+    font-weight: bold;
+}
+.congé{
+    color: red !important;
+    font-weight: bold;
+}
 
 @media screen and (min-width:800px) {
     .menuText {
