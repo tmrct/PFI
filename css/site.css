@@ -37,6 +37,7 @@ body {
 
 }
 
+
 .content h1 {
     font-family: "Sofia", sans-serif;
     text-align: center;
@@ -132,7 +133,7 @@ body {
         text-align: center;
         order: 1;
 
-    }
+    } 
 
     .box3 {
         flex: 1;
